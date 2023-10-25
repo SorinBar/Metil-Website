@@ -10987,6 +10987,23 @@ header.masthead h1, header.masthead .h1 {
   opacity: 1;
 }
 
-#service-icon {
+.service-icon {
   color: var(--bs-red) !important;
+}
+
+.contact-icon {
+  color: var(--bs-black) !important;
+}
+
+.contact-link {
+  color: var(--bs-black);
+}
+
+.contact-link:hover {
+  color: var(--bs-gray);
+}
+
+.contact-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
