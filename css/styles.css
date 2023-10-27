@@ -10992,15 +10992,11 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .contact-icon {
-  color: var(--bs-black) !important;
+  color: var(--bs-white) !important;
 }
 
 .contact-link {
   color: var(--bs-black);
-}
-
-.contact-link:hover {
-  color: var(--bs-gray);
 }
 
 .contact-section {
