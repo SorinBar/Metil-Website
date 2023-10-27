@@ -10922,6 +10922,10 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
+  /*
+    Image License:
+    https://pixabay.com/service/license-summary/
+  */
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%), url("../assets/img/background-img2.jpg");
   background-position: center;
   background-repeat: no-repeat;
