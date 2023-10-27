@@ -15,7 +15,7 @@
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
-  --bs-red: #d4192b;
+  --bs-red: #e01515;
   --bs-red-light: #e12e40;
   --bs-red-super-light: #fc3347;
   --bs-red-0_9: #d4192c96;
@@ -11006,4 +11006,8 @@ header.masthead h1, header.masthead .h1 {
 .contact-section {
   padding-top: 80px;
   padding-bottom: 80px;
+}
+
+#background-logo {
+  max-width: 60%;
 }
